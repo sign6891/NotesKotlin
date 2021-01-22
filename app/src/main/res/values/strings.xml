@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LessonSQLiteKotlin</string>
+    <string name="todo">TODO</string>
+    <string name="add_title_hint">Заголовок</string>
+    <string name="add_description_hint">Описание</string>
+    <string name="no_elements">No Elements</string>
+</resources>
